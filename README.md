@@ -12,11 +12,11 @@ Learn more about me, my background, and my passion.
 Easily get in touch with me through the Contact Page.
 Fill out the contact form to send me a message or inquiry.
 
-## **Skills Page**
+### **Skills Page**
 Explore the various skills I possess, including programming languages, frameworks, and tools.
 See how my skills align with the projects I've worked on.
 
-## **Project Page**
+### **Project Page**
 Dive into my portfolio of projects.
 Get an in-depth look at project descriptions, technologies used, and links to GitHub repositories.
 Witness my creativity and problem-solving abilities through a diverse range of projects.
